@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/images">
+        <!-- Add application icons here if needed -->
+    </qresource>
+    <qresource prefix="/icons">
+        <!-- Add UI icons here if needed -->
+    </qresource>
+</RCC>

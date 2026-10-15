@@ -1,0 +1,59 @@
+# Ignore build and dependency directories
+build/
+build_vs/
+cmake-build-debug/
+cmake-build-release/
+.vs/
+.vscode/
+out/
+
+# Qt specific
+*.moc.cpp
+moc_*.cpp
+ui_*.h
+*.pro.user
+*.qrc.depends
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.ilk
+
+# IDE files
+.idea/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CMake
+CMakeCache.txt
+CMakeUserPresets.json
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.pdf
+*.zip
+
+# Dependencies
+vcpkg_installed/

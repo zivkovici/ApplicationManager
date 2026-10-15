@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "ApplicationManager.exe",
+      "name": "ApplicationManager.exe",
+      "env": {
+        "PATH": "C:\\Qt\\6.11.2\\msvc2022_64\\bin;${env.PATH}"
+      }
+    }
+  ]
+}
